@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Jens Fritzsche, a technical consultant and developer for D365 BC at Comsol in Kronberg...
+### Hi there,
+my name is Jens Fritzsche, a technical consultant and developer for D365 BC at Comsol in Kronberg...
 
 <!--
 **mightyjens/mightyjens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
