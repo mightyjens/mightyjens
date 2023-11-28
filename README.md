@@ -1,5 +1,8 @@
 #### Hi there,
-my name is Jens Fritzsche, a technical consultant and developer for D365 BC at Comsol in Kronberg...
+my name is Jens Fritzsche, a technical consultant and developer for D365 BC at Comsol in Kronberg
+
+- 🔭 I’m interested in Business Central...
+- 🌱 I’m currently learning Python...
 
 <!--
 **mightyjens/mightyjens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
